@@ -4,7 +4,7 @@ Using the [NLK](https://www.nltk.org/) - NLTK is a leading platform for building
 
 ---
 
-### Follow this steps to download your data from [chatgpt] (chatgpt.com)
+### Follow this steps to download your data from [chatgpt] (https://chatgpt.com/)
 
 - [x] Navigate to your profile setting
 ![alt text](<img/chat gpt 1.png>)
