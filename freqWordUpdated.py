@@ -1,6 +1,7 @@
 import string
 import re
 from collections import Counter
+# from bs4 import BeautifulSoup (If working with html file)
 import nltk
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
