@@ -7,14 +7,12 @@ Using the [NLK](https://www.nltk.org/) - NLTK is a leading platform for building
 ### Follow this steps to download your data from [chatgpt] (chatgpt.com)
 
 - [x] Navigate to your profile setting
-![Alt Text](DolapoSalim/ocr-data-analysis-chatgpt/img/chat gpt 1.png)
+![alt text](<img/chat gpt 1.png>)
 
 - [x] Download and export your personal data
-![Alt Text](DolapoSalim/ocr-data-analysis-chatgpt/img/chat gpt 2.png)
+![Alt Text](<img/chat gpt 2.png>)
 Be careful not to expose your personal data (data privacy)
 
 - [x] convert your chat file from html format to .txt
-![Alt Text](DolapoSalim/ocr-data-analysis-chatgpt/img/chat gpt 2.png)
+![Alt Text](<img/chat gpt 2.png>)
 this step is for windows users, for OS and linux users, converting to .txt file may need a OS specific procedure.
-
-
