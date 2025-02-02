@@ -4,7 +4,6 @@ from collections import Counter
 import nltk
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
-import networkx as nx
 
 # Download necessary NLTK resources
 nltk.download("punkt")
@@ -40,7 +39,7 @@ def generate_wordcloud(word_counts):
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")  # Hide axis
-    plt.title("Word Cloud of Most Common Words")
+    plt.title("most-used words on chatgpt")
     plt.show()
 
 # Main Execution
